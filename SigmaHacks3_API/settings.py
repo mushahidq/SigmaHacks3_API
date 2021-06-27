@@ -29,7 +29,7 @@ DEBUG = True
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
-ALLOWED_HOSTS = ['https://mysterious-caverns-68206.herokuapp.com']
+ALLOWED_HOSTS = ['mysterious-caverns-68206.herokuapp.com']
 
 
 # Application definition
