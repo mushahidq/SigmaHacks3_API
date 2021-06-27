@@ -128,7 +128,7 @@ termcolor==1.1.0
 threadpoolctl==2.1.0
 tifffile==2021.2.26
 toml==0.10.2
-torch==1.8.1+cu111
+torch==1.9.0
 torchaudio==0.8.1
 torchvision==0.9.1+cu111
 tornado==6.1
