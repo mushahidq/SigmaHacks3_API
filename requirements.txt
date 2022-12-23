@@ -136,3 +136,5 @@ wrapt==1.12.1
 wsproto==1.0.0
 yarl==1.6.3
 zstandard==0.14.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
