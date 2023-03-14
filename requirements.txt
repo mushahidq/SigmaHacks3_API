@@ -53,7 +53,7 @@ imageio==2.9.0
 isort==5.7.0
 itsdangerous==1.1.0
 Jinja2==2.11.3
-joblib==1.0.1
+joblib==1.1.1
 kaitaistruct==0.9
 Keras==2.6.0rc3
 Keras-Preprocessing==1.1.2
